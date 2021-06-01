@@ -12,7 +12,7 @@ We have a total of: \
 - Covid CT Scan Images: 1252 (png)
 - Non-Covid CT Scan Images: 1230 (png)
 
-We will divide them into 3 folders manually: \
+We will divide them into 3 folders manually: 
 1) train: (to train the model)
 - Covid: 992 images
 - Non-Covid: 975 images
@@ -27,10 +27,10 @@ We will divide them into 3 folders manually: \
 
 We will break into 3 Parts for this project namely:\
 Part A : Observe the CT Scan and to deferentiate the difference visually. \
-Part B : We wil test our 3 models namely:\
-1) VGG16\
-2) InterceptionV3\
-3) Resnet50\
+Part B : We wil test our 3 models namely:
+1) VGG16
+2) InterceptionV3
+3) Resnet50
 and select the best one for hyperparameter tuning.\
 Part C : We wil use the best mdoel to fine tune the training rate and use the best model. 
 
